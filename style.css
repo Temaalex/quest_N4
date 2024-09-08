@@ -1,0 +1,21 @@
+.size{
+	position:absolute;
+	top:50%;
+	left:50%;
+	font-size: 50px;
+	font-weight:bold;
+	text-align: center;
+	transform:translate(-50%, -50%);
+	
+}
+.imgSize{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+audio{
+	display:block;
+	width:500px;
+	height:100px;
+}
